@@ -1,6 +1,6 @@
 # Harvard CS50P Python Practice
 
-This directory contains the Python files I am working on as part of completing the Harvard CS50P course.
+This repository contains the Python files I am working on as part of completing the Harvard CS50P course.
 
 ## Purpose
 These files serve as a reference for:
